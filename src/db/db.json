@@ -1,0 +1,44 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "home",
+            "link": "https://google.com",
+            "dropdown": []
+        },
+        {
+            "id": 2,
+            "name": "gallery",
+            "link": "https://google.com",
+            "dropdown": [
+                {
+                    "id": 1,
+                    "name": "product1",
+                    "link": "https://google.com"
+                },
+                {
+                    "id": 2,
+                    "name": "product2",
+                    "link": "https://google.com"
+                },
+                {
+                    "id": 3,
+                    "name": "product3",
+                    "link": "https://google.com"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "about",
+            "link": "https://google.com",
+            "dropdown": []
+        },
+        {
+            "id": 4,
+            "name": "contact",
+            "link": "https://google.com",
+            "dropdown": []
+        }
+    ]
+}
