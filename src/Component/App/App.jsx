@@ -12,7 +12,7 @@ const App = () => {
             let res = await data.json()
             setHeader(res)
         } catch (error) {
-
+         console.log(error.message);
         }
     }
 
